@@ -1,0 +1,13 @@
+{
+	"name": "rest-app",
+	"short_name": "rest-app",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "logo.png",
+			"sizes": "1090x133",
+			"type": "image/png"
+		}
+	]
+}
